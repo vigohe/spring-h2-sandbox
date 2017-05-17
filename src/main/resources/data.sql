@@ -1,0 +1,1 @@
+INSERT INTO DOCUMENT VALUES('asdf',1,'XXX','asdf',1);
